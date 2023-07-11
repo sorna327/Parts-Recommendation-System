@@ -6,7 +6,7 @@ The search will provide the recommendation parts, only when at least 4 parts are
 
 To run the files 
 1. Navigate to the directory in the cmd and locate the directory of the Home.py file.
-2. Before runing make sure you have recommended pacages that are imported to the code and download all the pakagages.
+2. Before runing make sure you have recommended pacages that are imported to the code and download all the packages.
 3. Then in comand prompt run the file by using the below command
 
       **python -m streamlit run Home.py**
