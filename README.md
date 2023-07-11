@@ -9,7 +9,7 @@ To run the files
 2. Before runing make sure you have recommended pacages that are imported to the code and download all the pakagages.
 3. Then in comand prompt run the file by using the below command
 
-   **python -m streamlit run Home.py**
+      **python -m streamlit run Home.py**
 5. The browser will view the output of the web app.
   
 
